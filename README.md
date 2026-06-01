@@ -22,7 +22,7 @@ This has 2 parts
 1. Clone the repo
 
 2. Run micro-frontend-1, micro-frontend-2 & host-app
-   i. Navigate to app directory
-   ii. run `npm install`
+    - Navigate to the directory of each app
+    - Run `npm install`
 
-3. Navigate through 2 different routes from host-app using nav link, they should load remote apps as per route
+4. Navigate through 2 different routes from host-app using nav link, they should load remote apps as per route
